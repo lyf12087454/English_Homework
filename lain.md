@@ -4,7 +4,7 @@
 
 [Skip](README.md)
 
-![image](lain.img)
+![image](lain.jpg)
 
 ![image](https://fauux.neocities.org/mebious_icon_02.gif)
 
