@@ -27,6 +27,7 @@ ordered list
 
 table 
 |T|M|U|
+|  ----  | ----  | ----  |
 |the shy|rookie|Jakeylove|
 |1.0|1.0|1.0|
 
