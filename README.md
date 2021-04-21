@@ -1,3 +1,3 @@
 # English_Homework
 
-[Skit](lain.md)
+[Skip](lain.md)
