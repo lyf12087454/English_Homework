@@ -26,10 +26,10 @@ ordered list
 1. lain
 
 table 
-|T|M|U|
+|W|H|O|
 |  ----  | ----  | ----  |
-|the shy|rookie|Jakeylove|
-|1.0|1.0|1.0|
+|virtual ghost|peeping Tom|Observer|
+|7|13|9|
 
 **Wired      
 Sound For
